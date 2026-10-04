@@ -10,9 +10,9 @@ R = 18, V = 2, B = 10010, n = 6
 - Q1 run 3 (111, not divisible): <https://www.automataverse.com/m/ZwNxTH9P>
 
 ## Q2 - a^(2n) b^n
-- Q2 run 1 (a x12, b x6): <link>
-- Q2 run 2 (a x12, b x5): <link>
-- Q2 run 3 (aaaabb): <link>
+- Q2 run 1 (a x12, b x6): <https://www.automataverse.com/m/LxGawpdU>
+- Q2 run 2 (a x12, b x5): <https://www.automataverse.com/m/sbEW77GK>
+- Q2 run 3 (aaaabb): <https://www.automataverse.com/m/mRd9zLUv>
 
 ## Q3 - x2 (append 0)
 - Q3 run 1 (start tape 10010): <https://www.automataverse.com/m/gVdcmBzn>
