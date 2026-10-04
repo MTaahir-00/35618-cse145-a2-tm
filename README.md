@@ -27,10 +27,10 @@ R = 18, V = 2, B = 10010, n = 6
 - Q5 run 2 (aa#bb): <link>
 
 ## Q6 - Debug the broken machine
-- Q6 run 1 (broken, empty string): <link>
-- Q6 run 2 (broken, 11): <link>
-- Q6 run 3 (broken, 1): <link>
-- Q6 run 4 (broken, 111): <link>
+- Q6 run 1 (broken, empty string): <https://www.automataverse.com/m/QUpjSMXo>
+- Q6 run 2 (broken, 11): <https://www.automataverse.com/m/6awGgACZ>
+- Q6 run 3 (broken, 1): <https://www.automataverse.com/m/HSZQx7ze>
+- Q6 run 4 (broken, 111): <https://www.automataverse.com/m/KaLdRaju>
 - Q6 run 5 (corrected, empty string): <link>
 - Q6 run 6 (corrected, 11): <link>
 - Q6 run 7 (corrected, 1): <link>
