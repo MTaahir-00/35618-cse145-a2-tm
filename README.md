@@ -7,7 +7,7 @@ R = 18, V = 2, B = 10010, n = 6
 ## Q1 - Divisible by 5
 - Q1 run 1 (B = 10010): <https://www.automataverse.com/m/GZHNyyxU>
 - Q1 run 2 (1010, divisible): <https://www.automataverse.com/m/iG5o5GJQ>
-- Q1 run 3 (111, not divisible): <link>
+- Q1 run 3 (111, not divisible): <https://www.automataverse.com/m/ZwNxTH9P>
 
 ## Q2 - a^(2n) b^n
 - Q2 run 1 (a x12, b x6): <link>
