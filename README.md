@@ -18,9 +18,9 @@ R = 18, V = 2, B = 10010, n = 6
 - Q3 run 1 (start tape 10010): <https://www.automataverse.com/m/gVdcmBzn>
 
 ## Q4 - Even-length palindromes over {a,b}
-- Q4 run 1 (aabbabbabbaa): <link>
-- Q4 run 2 (aabbabbabbab): <link>
-- Q4 run 3 (a): <link>
+- Q4 run 1 (aabbabbabbaa): <https://www.automataverse.com/m/VJWWsPTS>
+- Q4 run 2 (aabbabbabbab): <https://www.automataverse.com/m/tsfSWFox>
+- Q4 run 3 (a): <https://www.automataverse.com/m/chnVMm5H>
 
 ## Q5 - a^i # b^j with i > j
 - Q5 run 1 (aa#b): <link>
