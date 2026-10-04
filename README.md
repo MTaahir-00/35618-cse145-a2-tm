@@ -23,8 +23,8 @@ R = 18, V = 2, B = 10010, n = 6
 - Q4 run 3 (a): <https://www.automataverse.com/m/chnVMm5H>
 
 ## Q5 - a^i # b^j with i > j
-- Q5 run 1 (aa#b): <link>
-- Q5 run 2 (aa#bb): <link>
+- Q5 run 1 (aa#b): <https://www.automataverse.com/m/LrgDFVWg>
+- Q5 run 2 (aa#bb): <https://www.automataverse.com/m/2BXnhFja>
 
 ## Q6 - Debug the broken machine
 - Q6 run 1 (broken, empty string): <https://www.automataverse.com/m/QUpjSMXo>
